@@ -1,0 +1,2 @@
+Pasta destinada para manter arquivos do projeto
+
