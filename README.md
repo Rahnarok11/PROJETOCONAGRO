@@ -11,7 +11,6 @@ O projeto tem como objetivo ensinar aos estudantes o uso eficaz do GitHub em equ
 - Caio Fernando Silva Freire
 - Daniel Menezes Almeida
 - Fernando da Silva Almeida
-- Guilherme de Sena Alves
 - Leonardo Capistrano de Sousa Silva
 - Marco Antonio Feitosa
 
