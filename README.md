@@ -12,8 +12,5 @@ O projeto tem como objetivo ensinar aos estudantes o uso eficaz do GitHub em equ
 - Daniel Menezes Almeida
 - Fernando da Silva Almeida
 - Leonardo Capistrano de Sousa Silva
-<<<<<<< HEAD
 - Marco Antonio Feitosa
-=======
-- Marco Antonio Feitosa
->>>>>>> Develop
+
