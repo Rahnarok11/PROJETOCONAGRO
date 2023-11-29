@@ -13,3 +13,4 @@ O projeto tem como objetivo ensinar aos estudantes o uso eficaz do GitHub em equ
 - Fernando da Silva Almeida
 - Leonardo Capistrano de Sousa Silva
 - Marco Antonio Feitosa
+
