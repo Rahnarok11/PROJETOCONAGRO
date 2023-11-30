@@ -14,3 +14,7 @@ O projeto tem como objetivo ensinar aos estudantes o uso eficaz do GitHub em equ
 - Leonardo Capistrano de Sousa Silva
 - Marco Antonio Feitosa
 
+# LINKS DOS PROJETOS 📄
+
+- Mobile: https://app.flutterflow.io/run/zprWewLe8AszHuHpVqJe
+- PC: https://app.flutterflow.io/run/4dymbCuAroWiGN73UuDq
