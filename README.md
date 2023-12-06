@@ -16,5 +16,5 @@ O projeto tem como objetivo ensinar aos estudantes o uso eficaz do GitHub em equ
 
 # LINKS DOS PROJETOS 📄
 
-- Mobile: https://app.flutterflow.io/run/zprWewLe8AszHuHpVqJe
-- PC: https://app.flutterflow.io/run/4dymbCuAroWiGN73UuDq
+- Mobile: https://app.flutterflow.io/run/gNdCj69mihXSiiNCRLLh
+- PC: https://app.flutterflow.io/run/kuqtCj3nVijBv7GLDBwE
